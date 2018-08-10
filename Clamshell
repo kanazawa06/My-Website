@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Clamshell</title>
+	<link rel="stylesheet" type="text/css" href="CSS/cstyle.css">
+</head>
+<body style="background:whitesmoke;">
+	<h1 align = "center" style="font-size: 50px; color: LightSkyBlue">Clamshell <i>(Flip Phone)</i></h1><hr>
+
+	<br>
+	<img src="Clamshell/as.jpg" alt="1">
+	<img src="Clamshell/cs.jpg" alt="2">
+	<img src="Clamshell/medium02.jpg" alt="3">
+	<img src="Clamshell/ss.jpg" alt="4">
+
+	<br>
+	<br>
+	<ul align="justify" style="font-size: 30px">
+		<li>Is a <i>Form Factor</i> of a smartphone or other device which is in two or more sections that fold via a hinge.</li>
+		<li>When the clamshell is open, the device is up and ready to be used. The interface components are kept inside tha clamshell, which offers more surface area than when the device is closed.</li>
+		<li>They are characterized by the protective design of their casing, which completly covers the screen and keyboard when not in use.</li>
+		<li>A disadvantage of the clamshell design is the connecting hinge, which is prone to fatigue or failure.</li>
+	</ul>
+</body>
+</html>
