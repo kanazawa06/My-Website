@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+}
+
+.left
+{
+	background-color: whitesmoke;
+	width: 350px;
+	height: 200px;
+	display: inline-block;
+}
+
+.right
+{
+	background-color: whitesmoke;
+	width: 350px;
+	height: 200px;
+	display: inline-block;
+}
