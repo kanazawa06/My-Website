@@ -1,0 +1,11 @@
+body
+{
+	text-align: center;
+}
+img
+{
+	background-color: whitesmoke;
+	width: 350px;
+	height: 200px;
+	display: inline-block;
+}
