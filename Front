@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Front</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+</head>
+
+
+<body style="background:whitesmoke;">
+
+	<h1 align="center" style="font-size: 80px;color:blue; font-family:comic sans ms;">I Am Kanazawa</h1>
+	<h4 align="center" style="font-size: 20px;color: red"><i>I Want to Learn, I Need to Learn, I Must Learn</i></h4>
+	<hr>
+
+	<br>
+	<h1 align="center" style="font-size: 100px;color:DodgerBlue; font-family:Arial;">What is Digital Forensic?</h1>
+
+	<ul align ="justify">
+		<li style="font-size: 30px">is a branch of forensic science encompassing the recovery and investigation of material found in digital evidences, often in relation to computer crime.</li>
+		<li style="font-size: 30px">digital forensic was originally used as synonym for computer forensics but has expanded to cover investigation of devices capable of storing digital data.</li>
+		<li style="font-size: 30px">relating to or denoting the application of scientific methods and techniques to the investigation of crime.</li>
+		<li style="font-size: 30px">scientific test or techniques used in connection with the detection of crime.</li>
+	</ul>
+
+	<h2 align="center" style="font-size: 50px;color:blue; font-family:Verdana;"> Two types of Forensic we should master and understand!</h2>
+
+
+	<a href="MObile Forensic.html">  
+   		<img class="left" src="Computer/a.png"alt="Mobile">
+   	</a>
+
+	<a href="">  
+   		<img class="rigth" src="Computer/wht_220.png" alt="Computer">
+   	</a>
+	
+
+	</body>
+</html>
